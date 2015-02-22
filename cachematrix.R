@@ -33,6 +33,3 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-
-
-
